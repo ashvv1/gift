@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gift.git/static/css/main.d1c1827b.css",
+    "main.js": "/gift.git/static/js/main.fe735af6.js",
+    "static/js/787.8af72cf0.chunk.js": "/gift.git/static/js/787.8af72cf0.chunk.js",
+    "static/media/boxopening1.gif": "/gift.git/static/media/boxopening1.2af97556e49ad355dccc.gif",
+    "static/media/boxopen1.jpg": "/gift.git/static/media/boxopen1.2184b49df82d4e75fe56.jpg",
+    "static/media/boxclosed1.jpg": "/gift.git/static/media/boxclosed1.a9fa06e7130b81267ce6.jpg",
+    "index.html": "/gift.git/index.html",
+    "main.d1c1827b.css.map": "/gift.git/static/css/main.d1c1827b.css.map",
+    "main.fe735af6.js.map": "/gift.git/static/js/main.fe735af6.js.map",
+    "787.8af72cf0.chunk.js.map": "/gift.git/static/js/787.8af72cf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c1827b.css",
+    "static/js/main.fe735af6.js"
+  ]
+}
