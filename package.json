@@ -2,7 +2,7 @@
   "homepage": "https://ashvv1.github.io/gift.git",
   "name": "gift",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.2",
